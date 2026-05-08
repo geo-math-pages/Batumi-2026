@@ -14,17 +14,19 @@ The workshop focuses on the interplay between formal group laws, cobordism theor
 * Equivariant K-theory
 * Topological Data Analysis (TDA)
 
-One of the central objects of discussion will be the structure of the complex cobordism ring:
-$$ \Omega_*^{MU} \cong \mathbb{Z}[x_1, x_2, \dots], \quad \deg x_i = 2i $$
+One of the central objects of discussion will be the structure of the complex cobordism ring
+$$ \Omega_*^{MU} \cong \mathbb{Z}[x_1, x_2, \dots], \quad \deg x_i = 2i $$ and related cobordism theories.
 
 ---
 
-## Invited Speakers
-* **Victor Buchstaber** (Steklov Mathematical Institute)
-* **Taras Panov** (Moscow State University)
-* **Mamuka Jibladze** (Tbilisi State University)
-* **Elena Bunkova**
-* **Chernykh**
+## Speakers
+* **Victor Buchstaber** (Moscow State University, Steklov Mathematical Institute)
+* **Taras Panov** (Moscow State University, Steklov Mathematical Institute)
+* **Mamuka Jibladze** (Tbilisi State University, Razmadze Mathematical Institute)
+* **Elena Bunkova** (Steklov Mathematical Institute)
+* **George hernykh** (Steklov Mathematical Institute)
+* **Malkhaz Bakuradze** (Tbilisi State University, Razmadze Mathematical Institute)
+* **Bachuki Mesablishvili** (Tbilisi State University, Razmadze Mathematical Institute)
 
 ---
 

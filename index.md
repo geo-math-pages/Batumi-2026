@@ -22,8 +22,8 @@ $$ \Omega_*^{MU} \cong \mathbb{Z}[x_1, x_2, \dots], \quad \deg x_i = 2i $$
 ## Invited Speakers
 * **Victor Buchstaber** (Steklov Mathematical Institute)
 * **Taras Panov** (Moscow State University)
-* **Malkhaz Bakuradze** (Tbilisi State University)
-* **Bunkov**
+* **Mamuka Jibladze** (Tbilisi State University)
+* **Elena Bunkova**
 * **Chernykh**
 
 ---

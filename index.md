@@ -29,7 +29,7 @@ $$ \Omega_*^{MU} \cong \mathbb{Z}[x_1, x_2, \dots], \quad \deg x_i = 2i $$
 ---
 
 ## Registration
-To register or for further inquiries, please contact the organizers via email.
+To register or for further inquiries, please contact the organizers via email: ruslan.surmanidze@tsu.ge
 
 ---
 © 2026 Organizing Committee

@@ -20,13 +20,13 @@ $$ \Omega_*^{MU} \cong \mathbb{Z}[x_1, x_2, \dots], \quad \deg x_i = 2i $$ and r
 ---
 
 ## Speakers
-* **Victor Buchstaber** (Moscow State University, Steklov Mathematical Institute)
-* **Taras Panov** (Moscow State University, Steklov Mathematical Institute), Rigidity and fibre multiplicativity of Hirzebruch genera.
-* **Mamuka Jibladze** (Tbilisi State University, Razmadze Mathematical Institute)
+* **Victor Buchstaber** (Lomonosov Moscow State University, Steklov Mathematical Institute)
+* **Taras Panov** (Lomonosov Moscow State University, Steklov Mathematical Institute), Rigidity and fibre multiplicativity of Hirzebruch genera.
+* **Mamuka Jibladze** (Javakhishvili Tbilisi State University, Razmadze Mathematical Institute)
 * **Elena Bunkova** (Steklov Mathematical Institute)
 * **George hernykh** (Steklov Mathematical Institute)
-* **Malkhaz Bakuradze** (Tbilisi State University, Razmadze Mathematical Institute)
-* **Bachuki Mesablishvili** (Tbilisi State University, Razmadze Mathematical Institute)
+* **Malkhaz Bakuradze** (Javakhishvili Tbilisi State University, Razmadze Mathematical Institute)
+* **Bachuki Mesablishvili** (Javakhishvili Tbilisi State University, Razmadze Mathematical Institute)
 
 ---
 

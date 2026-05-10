@@ -1,7 +1,7 @@
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
-# Workshop: Formal Groups in Cobordisms and Related Structures
+# Workshop: Formal Groups in Algebraic Topology and Related Structures
 ### Batumi, Georgia | September 3--9, 2026
 
 ---

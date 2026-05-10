@@ -27,7 +27,7 @@ $$ \Omega_*^{MU} \cong \mathbb{Z}[x_1, x_2, \dots], \quad \deg x_i = 2i $$ and r
 * **George hernykh** (Steklov Mathematical Institute)
 * **Malkhaz Bakuradze** (Javakhishvili Tbilisi State University, Razmadze Mathematical Institute)
 * **Bachuki Mesablishvili** (Javakhishvili Tbilisi State University, Razmadze Mathematical Institute), On bicrossed products of preorxered groups
-* Ruslan Surmanidze** (Javakhishvili Tbilisi State University)
+* **Ruslan Surmanidze** (Javakhishvili Tbilisi State University)
 
 ---
 

@@ -2,7 +2,7 @@
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
 # Workshop: Formal Groups in Cobordisms and Related Structures
-### Batumi, Georgia | September 2026
+### Batumi, Georgia | September 3--9, 2026
 
 ---
 
